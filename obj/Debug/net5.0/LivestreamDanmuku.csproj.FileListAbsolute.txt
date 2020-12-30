@@ -1,0 +1,12 @@
+E:\Work\Livestream\LivestreamDanmuku\bin\Debug\net5.0\LivestreamDanmuku.deps.json
+E:\Work\Livestream\LivestreamDanmuku\bin\Debug\net5.0\LivestreamDanmuku.dll
+E:\Work\Livestream\LivestreamDanmuku\bin\Debug\net5.0\ref\LivestreamDanmuku.dll
+E:\Work\Livestream\LivestreamDanmuku\bin\Debug\net5.0\LivestreamDanmuku.pdb
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\net5.0\LivestreamDanmuku.csprojAssemblyReference.cache
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\net5.0\LivestreamDanmuku.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\net5.0\LivestreamDanmuku.AssemblyInfoInputs.cache
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\net5.0\LivestreamDanmuku.AssemblyInfo.cs
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\net5.0\LivestreamDanmuku.csproj.CoreCompileInputs.cache
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\net5.0\LivestreamDanmuku.dll
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\net5.0\ref\LivestreamDanmuku.dll
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\net5.0\LivestreamDanmuku.pdb
