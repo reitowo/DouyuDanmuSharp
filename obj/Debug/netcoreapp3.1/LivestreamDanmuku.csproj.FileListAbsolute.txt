@@ -1,0 +1,9 @@
+E:\Work\Livestream\LivestreamDanmuku\bin\Debug\netcoreapp3.1\LivestreamDanmuku.deps.json
+E:\Work\Livestream\LivestreamDanmuku\bin\Debug\netcoreapp3.1\LivestreamDanmuku.dll
+E:\Work\Livestream\LivestreamDanmuku\bin\Debug\netcoreapp3.1\LivestreamDanmuku.pdb
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\netcoreapp3.1\LivestreamDanmuku.csprojAssemblyReference.cache
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\netcoreapp3.1\LivestreamDanmuku.AssemblyInfoInputs.cache
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\netcoreapp3.1\LivestreamDanmuku.AssemblyInfo.cs
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\netcoreapp3.1\LivestreamDanmuku.csproj.CoreCompileInputs.cache
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\netcoreapp3.1\LivestreamDanmuku.dll
+E:\Work\Livestream\LivestreamDanmuku\obj\Debug\netcoreapp3.1\LivestreamDanmuku.pdb

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "JFHJa2ExT/vzhOo8HknLaooOhDjK+jqPG2Mi2zOzP4YnYUuFd7gqbLpLpAPgKzbmJI/Ue+aRVyN9oyJuCNZG2g==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\Livestream\\LivestreamDanmuku\\LivestreamDanmuku.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cnsch\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\cnsch\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“.NETCoreApp,Version=v3.1”还原包“WebSocketSharp 1.0.3-rc11”。此包可能与项目不完全兼容。",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
