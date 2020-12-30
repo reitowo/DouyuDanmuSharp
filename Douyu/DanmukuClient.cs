@@ -154,7 +154,14 @@ namespace LivestreamDanmuku.Douyu
                 {
                     case "chatmsg":
                         {
-                            ChatMessage chatMessage = new ChatMessage();
+                            ChatMessage chatMessage = new ChatMessage
+                            {
+                                Time = DateTimeOffset.FromUnixTimeMilliseconds(obj["cst"].Value<long>()).LocalDateTime,
+                                Username = obj["nn"].Value<string>(),
+                                Content = obj["txt"].Value<string>(),
+                                Color = obj.ContainsKey("col") ? (ChatMessageColor)obj["col"].Value<int>() : ChatMessageColor.White,
+                                Level = obj["level"].Value<int>()
+                            };
                             OnChatMessage.Invoke(chatMessage);
                             break;
                         } 

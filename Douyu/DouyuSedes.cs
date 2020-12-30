@@ -12,14 +12,14 @@ namespace LivestreamDanmuku.Douyu
         {
             if (str == null)
                 return string.Empty;
-            return str.Replace("@", "@A").Replace("/", "@S");
+            return str.Replace("/", "@S").Replace("@", "@A");
         }
 
         public static string Unescape(string str)
         {
             if (str == null)
                 return string.Empty;
-            return str.Replace("@A", "@").Replace("@S", "/");
+            return str.Replace("@S", "/").Replace("@A", "@");
         }
 
         public static string Serialize(JToken obj)
